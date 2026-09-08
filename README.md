@@ -1,6 +1,6 @@
 # 🚀 Automação de Infraestrutura AWS com Terraform (Fase 2)
 
-Projeto prático de **Infraestrutura como Código (IaC)** desenvolvido como parte do laboratório prático de DevOps (baseado no conteúdo de *Maria Lazara*). O objetivo principal é substituir o provisionamento manual por código declarativo, garantindo rastreabilidade, escalabilidade, segurança e idempotência na nuvem **AWS**.
+Projeto prático de **Infraestrutura como Código (IaC)** desenvolvido como parte do laboratório prático de DevOps. O objetivo principal é substituir o provisionamento manual por código declarativo, garantindo rastreabilidade, escalabilidade, segurança e idempotência na nuvem **AWS**.
 
 ---
 
